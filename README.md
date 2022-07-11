@@ -6,5 +6,7 @@ This respository is created as an example repository during the Advanced Python 
 ## Some local updates
 Hello!
 
+#Lena typed something new here.
+
 ## Pull request
 Some changes made from Sven
